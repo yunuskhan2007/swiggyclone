@@ -1,6 +1,6 @@
 # Swiggy Clone
 
-A responsive Swiggy homepage clone built using HTML, CSS, and JavaScript.
+A responsive Swiggy homepage clone built using HTML, CSS and JavaScript.
 
 ## Features
 
@@ -9,7 +9,6 @@ A responsive Swiggy homepage clone built using HTML, CSS, and JavaScript.
 - Grocery Slider
 - Show More / Show Less
 - Mobile Friendly
-- Modern UI
 
 ## Tech Stack
 
@@ -23,8 +22,22 @@ https://YOUR-VERCEL-LINK.vercel.app
 
 ## Screenshots
 
-(Add screenshots here later)
+### Hero Section
 
-## Author
+![Hero](Screenshots/page1.png)
 
-Yunus Khan
+### Food Categories
+
+![Food](Screenshots/Food1.png)
+
+### More Food Categories
+
+![Food 2](Screenshots/food2.png)
+
+### Instamart
+
+![Instamart](Screenshots/Instamart.png)
+
+### Footer
+
+![Footer](Screenshots/About.png)
