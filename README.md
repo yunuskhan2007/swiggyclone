@@ -18,7 +18,7 @@ A responsive Swiggy homepage clone built using HTML, CSS and JavaScript.
 
 ## Live Demo
 
-https://YOUR-VERCEL-LINK.vercel.app
+https://swiggyclone-six.vercel.app/
 
 ## Screenshots
 
