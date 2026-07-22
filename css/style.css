@@ -664,6 +664,9 @@ button{
 }
 
 @media (max-width:768px){
+    .logo{
+        transform:translateX(-20px);
+    }
 
     .container{
         width:95%;
@@ -766,8 +769,8 @@ button{
 
 @media (max-width:480px){
 
-    .logo img{
-        width:110px;
+    .logo{
+        transform:translateX(-50px);
     }
 
     .navmenu{
